@@ -6,7 +6,7 @@ const text = intro.querySelector('h1');
 const controller = new ScrollMagic.Controller();
 // scenes
 let scene = new ScrollMagic.Scene({
-      duration: 55000,
+      duration: 48000,
       triggerElement: intro,
       triggerHook: 0
 }).setPin(intro)
